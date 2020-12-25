@@ -1,0 +1,11 @@
+
+.td_color_1 {
+    background-color: orange;
+    color: rgba(256, 0, 0);
+    text-align: center;
+}
+.td_color_2 {
+    background-color: black;
+    color: rgba(128, 128, 128);
+    text-align: center;
+}
